@@ -1,5 +1,4 @@
 import TicketList from './TicketList';
-
 export default function Tickes() {
   return (
     <main>
